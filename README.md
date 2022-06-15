@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm William Hussein</h1>
-<h3 align="center">Un Développeur Junior front-end passionné originaire Paris🚀</h3>
+<h3 align="center">Un Développeur Junior front-end passionné originaire de Paris🚀</h3>
 
 - 🌱 J'apprends actuellement **ReactJS🌐**
 
